@@ -1,1 +1,1 @@
-**branfhing strategy**
+**Branching Strategy**
